@@ -21,12 +21,12 @@ Education
 - B.E.(Measurement, Control Technology and Instruments)
 
 
-RESEARCH INTEREST
+Research Interest
 ------
 mixed-signal circuits, analog circuits, power management IC, analog-digital converter, OSC, PLL.
 
 
-HONORS & AWARDS
+Honors & Awards
 ------
 - 2022 Outstanding Graduate from Tsinghua University
 - 2021 National Scholarship
