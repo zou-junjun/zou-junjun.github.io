@@ -1,4 +1,3 @@
----
 Publications
 ------
 **[2] A 442.1 nVpp, 13.07 ppm/°C Ultra-Low Noise Bandgap Reference Circuit in 180 nm BCD Process**
