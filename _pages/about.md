@@ -24,7 +24,7 @@ Education
 
 Research Interest
 ------
-mixed-signal circuits, analog circuits, power management IC, analog-digital converter, OSC, PLL.
+mixed-signal circuit design, analog circuit design, power management IC, Buck Converter, LDO,ADC, OSC, PLL.
 
 
 Honors & Awards
