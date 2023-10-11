@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I recieved my B.E. degree in Measurement, Control Technology and Instruments from Tsinghua University, in 2018, M.E. degree in Intruments and Meter Engineering from Tsinghua University in 2022. During my master's degree, my main research interest was high-precision bandgap reference and high-precision analog-digital converter. I joined Zeku Technology Co. Ltd. as an analog IC design engineer in Aug. 2022, and mainly engaged in low-volatge LDO circuit design. And I joined Joulwatt Microelectronics Co. Ltd. in Jun. 2023. Now I engage in power management IC design and multi-phase low-voltage buck converter.
+
 
 
 Education
