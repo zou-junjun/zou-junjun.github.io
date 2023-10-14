@@ -10,6 +10,8 @@ redirect_from:
 
 I recieved my B.E. degree in Measurement, Control Technology and Instruments from Tsinghua University, in 2018, M.E. degree in Intruments and Meter Engineering from Tsinghua University in 2022. During my master's degree, my main research interest was high-precision bandgap reference and high-precision analog-digital converter. I joined Zeku Technology Co. Ltd. as an analog IC design engineer in Aug. 2022, and mainly engaged in low-volatge LDO circuit design. And I joined Joulwatt Microelectronics Co. Ltd. in Jun. 2023. Now I engage in power management IC design and multi-phase low-voltage buck converter.
 
+You can find my CV here: [Zou JunJun's CV](https://zou-junjun.github.io/zoujunjun_cv.pdf)
+
 
 
 Education
@@ -24,7 +26,7 @@ Education
 
 Research Interest
 ------
-mixed-signal circuit design, analog circuit design, power management IC, Buck Converter, LDO,ADC, OSC, PLL.
+mixed-signal circuit design, analog circuit design, power management IC, Buck Converter, LDO,ADC, OSC, PLL, sensors.
 
 
 Honors & Awards
