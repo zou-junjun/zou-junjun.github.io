@@ -1,59 +1,40 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Research"
+permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Research Experience
+------
+**2020.08-2022.06 A study on high-precision bandgap reference circuit, Tsinghua University**
+* Advisor: Prof Wei Qi
+* Analyze the main noise resource and noise transfer function of traditional bandgap reference (BGR)
+* Propose a novel BGR topology by removing the error amplifier in the traditional BGR
+* Present a simplified but accurate noise model of proposed BGR to optimize output noise performance
+* Utilize the temperature characteristic of the current gain factor β to accomplish high-order temperature compensation
+* **Tape-out in 180 nm BCD process**
+* Simulation and chip tests verify low output noise and low output temperature variation of proposed BGR
+
+**2019.09-2020.06 A study on an auto-tuning continuous-time bandpass sigma-delta modulator, Tsinghua University**
+* Advisor: Prof Wei Qi
+* Propose a sigma-delta modulator topology composed of a bandpass sigma-delta ADC and an signal observation
+* The signal observation has same architecture as the sigma-delta ADC to trace input signal’s frequency and output a voltage to control and reduce the difference between input signal’s frequency and notch frequency of the sigma-delta ADC
+* **Tape-out in 180 nm CMOS process**
+* Simulation and chip tests verify the SNDR performance of proposed sigma-delta modulator
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+------
+**2023.06-Present: Analog IC Design Engineer, Joulwatt Microelectronics Co. Ltd, China**
+* Transistor-level circuit design and simulation (**Dual-phase PLL-based Adaptive Constant-on-time Buck Converter**)
+* Architect, implement and analyze trade-offs of circuits
+* Designed in 180 nm CMOS process
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**2022.08-2023.05: Analog IC Design Engineer, Zeku Technology Co. Ltd, China**
+* Transistor-level circuit design and simulation (**Comparator/Thermal Protection Circuit/Low Dropout Regulator**)
+* Architect, implement and analyze trade-offs of circuits
+* Oversee and support layout
+* Designed in 90 nm CMOS process
