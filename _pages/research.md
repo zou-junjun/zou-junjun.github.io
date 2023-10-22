@@ -21,8 +21,8 @@ Research Experience
 
 **2019.09-2020.06 A study on an auto-tuning continuous-time bandpass sigma-delta modulator, Tsinghua University**
 * Advisor: Prof Wei Qi
-* Propose a sigma-delta modulator topology composed of a bandpass sigma-delta ADC and an signal observation
-* The signal observation has same architecture as the sigma-delta ADC to trace input signal’s frequency and output a voltage to control and reduce the difference between input signal’s frequency and notch frequency of the sigma-delta ADC
+* Propose a continuous-time SDM with a 3-bit flash ADC and a second-order loop filter, which is composed of cascaded 2-stage RC integrator. And resistors in the loop filter are voltage-controlled MOS resistors.
+* Propose a pseudo-PLL circuit to alleviate the difference between input signal’s frequency and notch frequency of SDM. The pseudo-PLL circuit can trace input signal’s frequency and output a control voltage to modulate the notch frequency of the loop filter.
 * **Tape-out in 180 nm CMOS process**
 * Simulation and chip tests verify the SNDR performance of proposed sigma-delta modulator
 
