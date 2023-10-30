@@ -26,7 +26,7 @@ Education
 
 Research Interest
 ------
-Mixed-Signal Circuit Design, Noise-Shaping ADC, Buck Converter, LDO, PLL, Sensors.
+Mixed-Signal Circuit Design, Interface Circuit, AD/DA, RF IC, Power Management IC, Sensors.
 
 
 Honors & Awards
